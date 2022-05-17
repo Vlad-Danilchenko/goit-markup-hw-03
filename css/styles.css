@@ -38,6 +38,11 @@ body {
     margin: 0;
 }
 
+
+
+.header{
+    border-bottom: 1px solid #ECECEC;;
+}
 /* logo */
 .logo{
 
