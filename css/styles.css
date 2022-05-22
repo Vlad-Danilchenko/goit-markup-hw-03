@@ -159,12 +159,9 @@ body {
 
 
 /* hero */
-.hero{
-    background-color: var(--footer-bg-color);
-    
-    /* outline: 2px solid tomato; */
-}
+
 .hero-section{
+    background-color: var(--footer-bg-color);
     padding: 200px 0;
     text-align: center;
 }
